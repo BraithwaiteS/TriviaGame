@@ -1,0 +1,70 @@
+body{
+    background-image: url(../images/pineapple.png); 
+    background-size: 100%;
+    text-align: center;
+    font-family: 'Slackey', cursive;
+}
+button{
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    text-decoration: none;  
+    display: inline-block;
+   background-image: url(../images/sea.jpg); 
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Slackey', cursive;
+    padding-left: 35%;
+    padding-right: 40%;
+}
+h1{
+    font-size: 50px;
+    text-shadow: 4px 4px white;
+}
+h4{
+    font-size: 30px;
+}
+li{
+    margin-left: 10px;
+    margin-right: 50px;
+    list-style-type:none;
+    font-size: 20px;
+}
+p{
+    background-color: lightblue;
+}
+#question{
+    color:#006400;
+    text-shadow: 1px 1px black;
+    font-size: 30px;
+}
+.game{
+    padding-top: 0;
+    margin: 50px;
+}
+#correctanswers{
+    font-size: 40px;
+}
+#incorrectanswers{
+    font-size: 40px;
+}
+#poser{
+    font-size: 100px;
+}
+#soso{
+    font-size: 100px;
+}
+#true{
+    font-size: 100px;
+}
+#time-left{
+    font-size: 40px;
+}
+#timeout{
+    font-size: 80px;
+    text-shadow: 4px 4px white;
+}
+
+
+
+
